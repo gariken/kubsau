@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F4D73F81C29FF7C0084F452 /* кнопка.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F4D73F71C29FF7C0084F452 /* кнопка.png */; };
+		1F4D73FA1C2A00D90084F452 /* knopka.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F4D73F91C2A00D90084F452 /* knopka.png */; };
 		1F9B5E9F1C2818E0000973F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B5E9E1C2818E0000973F8 /* AppDelegate.swift */; };
 		1F9B5EA11C2818E0000973F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B5EA01C2818E0000973F8 /* ViewController.swift */; };
 		1F9B5EA41C2818E0000973F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B5EA21C2818E0000973F8 /* Main.storyboard */; };
@@ -21,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F4D73F71C29FF7C0084F452 /* кнопка.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "кнопка.png"; path = "KUbSAU/img/кнопка.png"; sourceTree = "<group>"; };
+		1F4D73F91C2A00D90084F452 /* knopka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = knopka.png; path = KUbSAU/img/knopka.png; sourceTree = "<group>"; };
 		1F9B5E9B1C2818E0000973F8 /* KUbSAU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KUbSAU.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F9B5E9E1C2818E0000973F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F9B5EA01C2818E0000973F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +84,8 @@
 		1FBF1D0D1C28195F008A51B7 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				1F4D73F91C2A00D90084F452 /* knopka.png */,
+				1F4D73F71C29FF7C0084F452 /* кнопка.png */,
 				1FBF1D0E1C28197B008A51B7 /* logo_clear.png */,
 				1FBF1D0F1C28197B008A51B7 /* logo_goriz1.png */,
 				1FBF1D101C28197B008A51B7 /* logo_goriz2.png */,
@@ -151,12 +157,14 @@
 				1FBF1D151C28197B008A51B7 /* logo_goriz1.png in Resources */,
 				1FBF1D161C28197B008A51B7 /* logo_goriz2.png in Resources */,
 				1FBF1D191C28197B008A51B7 /* logo_vert2.png in Resources */,
+				1F4D73FA1C2A00D90084F452 /* knopka.png in Resources */,
 				1FBF1D141C28197B008A51B7 /* logo_clear.png in Resources */,
 				1FBF1D181C28197B008A51B7 /* logo_vert1.png in Resources */,
 				1F9B5EA91C2818E0000973F8 /* LaunchScreen.storyboard in Resources */,
 				1FBF1D171C28197B008A51B7 /* logo_gr1.png in Resources */,
 				1F9B5EA61C2818E0000973F8 /* Assets.xcassets in Resources */,
 				1F9B5EA41C2818E0000973F8 /* Main.storyboard in Resources */,
+				1F4D73F81C29FF7C0084F452 /* кнопка.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
